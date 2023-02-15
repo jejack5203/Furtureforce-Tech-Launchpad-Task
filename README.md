@@ -1,4 +1,4 @@
-# Furtureforce-Tech-Launchpad-Task
+# Furtureforce Tech Launchpad Task
 
 Your website should implement the following features:
 
@@ -8,6 +8,6 @@ Your website should implement the following features:
 - [x] At least one accessible feature (i.e color sensitive choices, alt-text for images, etc)
 
 ### Website Walk-Through 
-<img src="http://g.recordit.co/W48fk7qgtu.gif" width=200> <br>
+<img src="http://g.recordit.co/HD4pQg1Wg1.gif" width=200> <br>
 
 
